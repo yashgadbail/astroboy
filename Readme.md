@@ -96,5 +96,5 @@ where \( B - V \) is the color index.
 This project is released under the MIT License.
 
 ## Author
-Developed by Yash Gadbail
+Developed by [Yash Gadbail](https://github.com/yashgadbail)
 
